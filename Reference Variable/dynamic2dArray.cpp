@@ -30,4 +30,13 @@ int main(){
         cout<<endl;
     }
 
+    //now we will clear our heap memory by deleting our 2d array using 'delete' keyword
+    //first we will delete insider array
+    for(int i=0;i<n;i++){
+        delete [] arr[i];
+    }
+
+    delete []arr;
+
+
 }
