@@ -157,7 +157,5 @@ This document provides an overview of the commonly used built-in data structures
 | **Unordered Map** | `<unordered_map>`   | Key-value pairs, unordered.                           |
 | **Bitset**        | `<bitset>`          | Compact array of bits.                                |
 
-Feel free to refer to this document when working with C++ data structures!
-```
 
-You can simply copy this content into a file named `README.md`. It provides a concise overview of the built-in data structures in C++ and includes the necessary syntax and usage examples for each data structure.
+
