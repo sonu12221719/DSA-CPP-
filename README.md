@@ -4,7 +4,7 @@
 - **Description**: A fixed-size collection of elements of the same type.
 - **Syntax**:
   ```cpp
-  int arr[5] = {1, 2, 3, 4, 5};
+  int arr[5] = {1, 2, 3, 4, 5};//array
   ```
 
 ## 2. Vector (Dynamic Array)
