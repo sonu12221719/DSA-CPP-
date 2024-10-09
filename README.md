@@ -1,9 +1,4 @@
-Here's how you can write the `README.md` file for built-in data structures in C++:
-
-```markdown
 # C++ Built-in Data Structures
-
-This document provides an overview of the commonly used built-in data structures available in C++ through its Standard Template Library (STL). These data structures help in efficiently organizing and manipulating data.
 
 ## 1. Array
 - **Description**: A fixed-size collection of elements of the same type.
